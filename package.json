@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "ng2-dual-list-box",
+        "scope": null,
+        "escapedName": "ng2-dual-list-box",
+        "name": "ng2-dual-list-box",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "c:\\dotNET\\SEBRAE\\SEBRAE-JF-EMPRETEC\\Area de Trabalho\\6-Desenvolver\\Fontes\\2 -Front-End\\src\\app\\components"
+    ]
+  ],
+  "_from": "ng2-dual-list-box@latest",
+  "_id": "ng2-dual-list-box@1.0.5",
+  "_inCache": true,
+  "_location": "/ng2-dual-list-box",
+  "_nodeVersion": "6.9.4",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/ng2-dual-list-box-1.0.5.tgz_1502179068628_0.9187308086548001"
+  },
+  "_npmUser": {
+    "name": "eldargranulo",
+    "email": "eldar.granulo@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ng2-dual-list-box",
+    "scope": null,
+    "escapedName": "ng2-dual-list-box",
+    "name": "ng2-dual-list-box",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ng2-dual-list-box/-/ng2-dual-list-box-1.0.5.tgz",
+  "_shasum": "818763368cc0ee1c4490eba0d8ccad30ed288528",
+  "_shrinkwrap": null,
+  "_spec": "ng2-dual-list-box",
+  "_where": "c:\\dotNET\\SEBRAE\\SEBRAE-JF-EMPRETEC\\Area de Trabalho\\6-Desenvolver\\Fontes\\2 -Front-End\\src\\app\\components",
+  "author": {
+    "name": "Eldar Granulo",
+    "email": "eldar32@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/matsura/ng2-dual-list-box/issues"
+  },
+  "dependencies": {},
+  "description": "An Angular 4 component inspired by the following jQuery library: https://github.com/Geodan/DualListBox",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "818763368cc0ee1c4490eba0d8ccad30ed288528",
+    "tarball": "https://registry.npmjs.org/ng2-dual-list-box/-/ng2-dual-list-box-1.0.5.tgz"
+  },
+  "homepage": "https://github.com/matsura/ng2-dual-list-box#readme",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "eldargranulo",
+      "email": "eldar.granulo@gmail.com"
+    }
+  ],
+  "module": "ng2-dual-list-box.js",
+  "name": "ng2-dual-list-box",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matsura/ng2-dual-list-box.git"
+  },
+  "scripts": {},
+  "typings": "ng2-dual-list-box.d.ts",
+  "version": "1.0.5"
+}
